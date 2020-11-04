@@ -1,0 +1,9 @@
+Step 1:
+Spring Boot Starter Parent
+Spring Boot Starter Web
+@SpringBootApplication
+Auto Configuration
+
+Step 2:
+Add a controller
+//index page  -> Call index controller
