@@ -16,6 +16,11 @@ public class LoginController {
     @RequestMapping("/index")
     @ResponseBody
     public static String indexPage() {
-        return "Default index page";
+        return "Default index page test";
+    }
+
+    @RequestMapping("/login")
+    public String loginPage() {
+        return "login";
     }
 }
