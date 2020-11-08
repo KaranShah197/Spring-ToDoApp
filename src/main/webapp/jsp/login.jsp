@@ -4,7 +4,7 @@
 </head>
 <body>
 
-Login JSP!!!
+Welcome, ${username} to Login JSP!!!
 
 </body>
 </html>
